@@ -3,7 +3,10 @@ class ProductsController < ActionController::Base
   def index
   end
 
-  def add
+  def new
+  end
+
+  def create
   end
 
 end
